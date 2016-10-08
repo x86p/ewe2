@@ -10,7 +10,7 @@ This project is based on the WebKit kernel,  It is used for web embedded on micr
 - WebCore
 - Webkit
 
-##library list:
+##Third party library list:
 - cairo
 - CFLie
 - icu
