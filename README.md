@@ -19,5 +19,5 @@ Dependency library list:
   Lzma(lib7z)
   zlib
 
-Generating steps:<br />
+Generating steps:
   1. 
