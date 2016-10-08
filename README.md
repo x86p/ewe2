@@ -1,5 +1,5 @@
 # ewe2(embed webkit engine)
-This project is based on the WebKit kernel,  It is used for web embedded windows platform.
+This project is based on the WebKit kernel,  It is used for web embedded on microsoft windows.
 
 ##module list:
 - WTF
