@@ -1,7 +1,10 @@
 # ewe2(embed webkit engine)
------
 This project is based on the WebKit kernel,  It is used for web embedded windows platform.
-Of course, it also relies on a number of third party libraries
+##module list:
+- WTF
+- JavaScriptCore
+- WebCore
+- Webkit
 ##library list:
 - cairo
 - angle
