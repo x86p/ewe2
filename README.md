@@ -4,13 +4,14 @@ This project is based on the WebKit kernel,  It is used for web embedded windows
 ##module list:
 - WTF
 - JavaScriptCore
+- libAngle
+- libEGL
+- libGLESv2
 - WebCore
 - Webkit
 
 ##library list:
 - cairo
-- angle
-- libEGL
 - CFLie
 - icu
 - libcurl
